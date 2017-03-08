@@ -1,7 +1,9 @@
-package com.sunny.yinews;
+package com.sunny.yinews.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.sunny.yinews.R;
 
 public class MainActivity extends AppCompatActivity {
 
