@@ -16,7 +16,7 @@
          android:layout_marginBottom="30dp"
          android:layout_centerHorizontal="true"
          android:layout_alignParentBottom="true"
-         android:text="进入菜鸟新闻1.0"
+         android:text="欢迎进入逸新闻"
          android:textSize="16sp"
          android:textColor="@color/color_white"
          android:layout_width="150dp"
