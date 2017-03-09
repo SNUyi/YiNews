@@ -4,11 +4,11 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <!-- 关于 -->
-    <string name="string_about_tv_top_name">菜鸟新闻</string>
-    <string name="string_about_tv_content">菜鸟新闻安卓客户端-是一个仿照36Kr官方App,实时抓取36Kr官网数据的资讯类新闻客户端
-包括首页新闻,详情,发现,活动,实时数据抓取,侧滑效果,第三方登录以及分享,消息推送等相关功能客户端。</string>
-    <string name="string_about_tv_bottom_right">菜鸟窝 Sky丶清</string>
-    <string name="string_about_tv_botton_copyright">Copyright ©2015-2016</string>
+    <string name="string_about_tv_top_name">逸新闻</string>
+    <string name="string_about_tv_content">逸新闻安卓客户端-是一个36Kr网站的资讯类新闻客户端
+包括首页新闻,详情,发现,活动,侧滑效果,第三方登录以及分享,消息推送等相关功能客户端。</string>
+    <string name="string_about_tv_bottom_right">软件1302 孙立鹏</string>
+    <string name="string_about_tv_botton_copyright">Copyright ©2016-2017</string>
     <!-- 意见反馈 -->
     <string name="string_tv_new_suggest">新需求建议</string>
     <string name="string_tv_question_classify">问题类型</string>
